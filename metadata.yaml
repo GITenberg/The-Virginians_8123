@@ -1,0 +1,42 @@
+_repo: The-Virginians_8123
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thackeray, William Makepeace
+    alias: Titmarsh, Michael Angelo
+    birthdate: 1811
+    deathdate: 1863
+    gutenberg_agent_id: '313'
+    url: http://www.gutenberg.org/2009/agents/313
+    wikipedia:
+    - http://www.victorianweb.org/authors/wmt/wmtov.html
+    - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+description: In a late eighteenth century setting, between fashionable London and
+  backward Virginia, two twin brothers from the nobility spend their formative period
+  trying to flee a domineering dowager mother in different ways, the older a saturnine,
+  melancholy character, the younger an easy going type. Both, in their own way, succeed;
+  but both reach old age feeling themselves equally swindled. The usual Thackeray
+  touch of good humoured aristocratic melancholy aimed at bourgeois philisteism.
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8123'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'United States -- History -- French and Indian War, 1754-1763 -- Fiction'
+- !lcsh 'Virginia -- History -- Revolution, 1775-1783 -- Fiction'
+- !lcsh 'Americans -- England -- Fiction'
+- !lcsh 'Twins -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Brothers -- Fiction'
+- !lcsh 'Great Britain -- History -- George II, 1727-1760 -- Fiction'
+- GITenberg
+title: The Virginians
+url: http://www.gutenberg.org/ebooks/8123

@@ -1,5 +1,8 @@
 _repo: The-Virginians_8123
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thackeray, William Makepeace
@@ -17,6 +20,8 @@ description: In a late eighteenth century setting, between fashionable London an
   melancholy character, the younger an easy going type. Both, in their own way, succeed;
   but both reach old age feeling themselves equally swindled. The usual Thackeray
   touch of good humoured aristocratic melancholy aimed at bourgeois philisteism.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8123#The-Virginians
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
